@@ -1,6 +1,4 @@
 @def title = "live.log"
-@def hasmath = true
-@def hascode = true
 
 \tableofcontents <!-- you can use \toc as well -->
 

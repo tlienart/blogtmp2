@@ -2,9 +2,6 @@
 @def date = Dates.today()
 @def rss = "Gaussian process and Bayesian optimization: ![](https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg)"
 
-@def hasmath = true
-@def hascode = true
-
 \toc
 
 # Gaussian process and Bayesian optimization

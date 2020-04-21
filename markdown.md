@@ -1,6 +1,4 @@
 @def title = "More goodies"
-@def hascode = true
-@def hasmath = true
 
 \toc
 

@@ -10,9 +10,6 @@ The website_* must be defined for the RSS to work
 @def author = "Sivaram Konanki"
 @def prepath = "blogtmp2"
 
-@def automath = false
-@def autocode = false
-
 <!--
 Add here global latex commands to use throughout your
 pages. It can be math commands but does not need to be.
