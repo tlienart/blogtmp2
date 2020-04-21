@@ -1,6 +1,6 @@
 @def title = "Gaussian Process and Bayesian optimization"
 @def date = Dates.today()
-@def rss = "Guassian process and Bayesian optimization: ![](https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg)"
+@def rss = "Gaussian process and Bayesian optimization: ![](https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg)"
 
 @def hasmath = true
 @def hascode = true
@@ -20,6 +20,7 @@ For many optimization problems, function evaluations can be quite expensive. For
 These are sampling plans for covering the search space when we have limited resources.
 
 ### Full factorial
+
 
 The _full factorial_ sampling plan places a grid of evenly spaced points over the search space. This approach is easy to implement, does not rely on randomness, and covers the space, but it uses a large number of points. Sampling grid is bounded as shown in the picture
 
